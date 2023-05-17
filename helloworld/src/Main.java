@@ -6,5 +6,7 @@ public class Main {
         }
         System.out.println("learning how to creat branch and push it to git hub");
         System.out.println("showing how to commit in source tree ");
+        System.out.println("showing how to commit in source tree new");
+
     }
 }
